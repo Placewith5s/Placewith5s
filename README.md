@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Placewith5s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML.
-- 📫 How to reach me ...
+- 👀 I’m interested in gaming and coding.
 
 <!---
 Placewith5s/Placewith5s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
