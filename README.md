@@ -15,13 +15,6 @@ I'm a [mention any additional information about yourself, like your background, 
 
 - [Website Project](https://github.com/Placewith5s/Website) - This is a [brief description of your project].
 
-
-## Contact
-
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- [Personal Website](https://www.yourwebsite.com)
-
 Feel free to reach out if you want to collaborate on a project or just chat about gaming and coding!
 
 ## License
