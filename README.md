@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm passionate about gaming and coding, and I'm al
 
 ## About Me
 
-I'm a [mention any additional information about yourself, like your background, areas of expertise, or favorite programming languages/tools].
+I'm a 
 
 ## Projects
 
-- [Website Project](https://github.com/Placewith5s/Website) - This is a [brief description of your project].
+- [Website Project](https://github.com/Placewith5s/Website) - 
 
-Feel free to reach out if you want to collaborate on a project or just chat about gaming and coding!
+Feel free to reach out if you want to collaborate on a project!
 
 ## License
 
