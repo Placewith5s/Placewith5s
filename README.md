@@ -16,8 +16,3 @@ I'm a
 - [Website Project](https://github.com/Placewith5s/Website) - 
 
 Feel free to reach out if you want to collaborate on a project!
-
-## License
-
-This repository is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
