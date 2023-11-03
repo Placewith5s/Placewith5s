@@ -9,10 +9,8 @@ Welcome to my GitHub profile! I'm passionate about gaming and coding, and I'm al
 
 ## About Me
 
-I'm a 
+
 
 ## Projects
 
 - [Website Project](https://github.com/Placewith5s/Website) - 
-
-Feel free to reach out if you want to collaborate on a project!
