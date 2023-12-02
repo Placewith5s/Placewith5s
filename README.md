@@ -9,12 +9,10 @@ Welcome to my coding haven on GitHub, where pixels meet code and adventures unfo
 
 ## About Me 🌟
 
-I'm a dedicated software developer with a flair for crafting interactive and immersive websites. My coding journey kicked off when I discovered the perfect blend of gaming and technology. This discovery sparked a quest through various programming languages and tools, driven by an unyielding commitment to growth.
+I'm a dedicated software developer with a flair for crafting interactive and immersive websites. My coding journey kicked off when I discovered the perfect blend of gaming and technology. This discovery sparked a quest through various programming languages and tools, fueled by an insatiable hunger for knowledge and continuous improvement.
 
-```javascript
-const currentFocus = ["Fortnite", "JavaScript"];
-const alwaysEagerToLearn = true;
+## Projects 🛠️
 
-if (alwaysEagerToLearn) {
-  console.log(`Currently honing my skills in ${currentFocus.join(" and ")}.`);
-}
+### [Website Project](https://github.com/Placewith5s/Website)
+
+Elevating the online experience, my Website Project is a testament to the fusion of creativity and precision coding.
