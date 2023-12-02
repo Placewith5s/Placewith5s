@@ -1,18 +1,20 @@
-# Hi there! 👋 I'm Placewith5s
+# Hello World! 👋 I'm Placewith5s.
 
-Welcome to my GitHub profile! I'm passionate about gaming and coding, and I'm always looking for exciting projects to work on.
+Welcome to my coding haven on GitHub, where pixels meet code and adventures unfold! I'm on the lookout for exciting projects that ignite my passion for gaming and coding.
 
-## Interests
+## Interests 🚀
 
 - 🎮 Gaming
 - 💻 Coding
 
-## About Me
+## About Me 🌟
 
-I'm a software developer with a strong interest in creating interactive and engaging websites. My journey in the world of coding started when I discovered my love for both gaming and technology. This passion has led me to explore various programming languages and tools, with a focus on web development.
+I'm a dedicated software developer with a flair for crafting interactive and immersive websites. My coding journey kicked off when I discovered the perfect blend of gaming and technology. This discovery sparked a quest through various programming languages and tools, driven by an unyielding commitment to growth.
 
-Currently, I'm working on refining my skills in Fortnite, and JS. I'm always eager to learn new things.
+```javascript
+const currentFocus = ["Fortnite", "JavaScript"];
+const alwaysEagerToLearn = true;
 
-## Projects
-
-- [Website Project](https://github.com/Placewith5s/Website) - 
+if (alwaysEagerToLearn) {
+  console.log(`Currently honing my skills in ${currentFocus.join(" and ")}.`);
+}
