@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Placewith5s.
 
-Welcome to my coding haven on GitHub, where pixels converge with code and adventures unfold! I'm actively seeking thrilling projects that ignite my passion for gaming and coding.
+Welcome to my GitHub coding sanctuary, where pixels dance with code and adventures await! I'm on the lookout for exciting projects that fuel my love for gaming and coding.
 
 ## Interests 🚀
 
