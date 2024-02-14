@@ -1,8 +1,8 @@
 ## Table of Contents
 
-- [Interests](#interests)
-- [About-Me](#about-me)
-- [Projects](#projects)
+- [Interests](#interests-)
+- [About-Me](#about-me-)
+- [Projects](#projects-%EF%B8%8F)
 
 # Hello World! 👋 I'm Placewith5s.
 
