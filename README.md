@@ -7,7 +7,7 @@
 
 # Hey there! 👋 I'm Placewith5s.
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Placewith5s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Placewith5s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome to my GitHub space where I combine pixels and code to create exciting digital experiences!
 
@@ -25,8 +25,8 @@ I'm a software developer with a deep-rooted love for gaming and technology. This
 ## Skills 🔧
 
 - **Languages:** HTML, CSS, JavaScript, Lua (for Roblox)
-- **Frameworks/Libraries:** React, Bootstrap (mention others if applicable)
-- **Tools:** Git, VS Code, Roblox Studio (any other relevant tools)
+- **Frameworks/Libraries:** No back end / server side
+- **Tools:** Git, VS Code, Roblox Studio
 
 ## Projects 🛠️
 
