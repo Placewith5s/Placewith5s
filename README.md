@@ -2,8 +2,8 @@
 
 - [Interests](#interests-)
 - [About Me](#about-me-)
+- [Skills](#skills-)
 - [Projects](#projects-)
-- [Skills](#skills-) 
 
 # Hey there! 👋 I'm Placewith5s.
 
