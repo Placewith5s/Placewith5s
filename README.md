@@ -36,6 +36,6 @@ I'm actively developing a website to elevate online experiences through a blend 
 
 ### Roblox Studio Plugin (In Progress)
 
-I'm excited to be working on a Roblox Studio plugin that will... (briefly describe the purpose/features of the plugin)
+I'm excited to be working on a Roblox Studio plugin that will... :)
 
 *Feel free to check out my repositories to see more of my work!*
