@@ -4,7 +4,6 @@
 - [About Me](#about-me-)
 - [Projects](#projects-)
 - [Skills](#skills-) 
-- [Let's Connect!](#let-s-connect-)
 
 # Hey there! 👋 I'm Placewith5s.
 
@@ -17,6 +16,7 @@ Welcome to my GitHub space where I combine pixels and code to create exciting di
 - 🎮 **Gaming:** From casual mobile games to immersive RPGs, I love exploring virtual worlds.
 - 💻 **Coding:** Crafting clean, efficient, and interactive websites is my passion.
 - 🎨 **Web Design:** I enjoy creating visually appealing interfaces that enhance user experience. 
+- 🤖 **Roblox Development:** I'm diving into the world of Roblox Studio and exploring the creation of custom plugins.
 
 ## About Me 🌟
 
@@ -24,9 +24,9 @@ I'm a software developer with a deep-rooted love for gaming and technology. This
 
 ## Skills 🔧
 
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, Lua (for Roblox)
 - **Frameworks/Libraries:** React, Bootstrap (mention others if applicable)
-- **Tools:** Git, VS Code, (any other relevant tools)
+- **Tools:** Git, VS Code, Roblox Studio (any other relevant tools)
 
 ## Projects 🛠️
 
@@ -34,12 +34,8 @@ I'm a software developer with a deep-rooted love for gaming and technology. This
 
 I'm actively developing a website to elevate online experiences through a blend of creative design and meticulous coding. 
 
+### Roblox Studio Plugin (In Progress)
+
+I'm excited to be working on a Roblox Studio plugin that will... (briefly describe the purpose/features of the plugin)
+
 *Feel free to check out my repositories to see more of my work!*
-
-## Let's Connect! 🤝
-
-I'm always open to collaboration and learning from fellow developers. Let's connect and build something awesome together! 
-
-- [LinkedIn](Your LinkedIn Profile Link) 
-- [Twitter](Your Twitter Profile Link) 
-- [Portfolio Website](Your Portfolio Website Link) (if you have one)
