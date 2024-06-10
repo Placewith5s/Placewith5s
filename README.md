@@ -1,41 +1,32 @@
-## Table of Contents
+# Hi there! 👋 I'm Placewith5s 
 
-- [Interests](#interests-)
-- [About Me](#about-me-)
-- [Skills](#skills-)
-- [Projects](#projects-)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Placewith5s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# Hey there! 👋 I'm Placewith5s.
+Welcome to my digital playground! I'm a passionate software developer who loves merging creativity with code to build exciting experiences.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Placewith5s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Interests
 
-Welcome to my GitHub space where I combine pixels and code to create exciting digital experiences!
+* 🎮 **Gaming:** Exploring virtual worlds from casual mobile games to immersive RPGs fuels my imagination.
+* 💻 **Coding:** Crafting clean, efficient, and interactive websites is my bread and butter.
+* 🎨 **Web Design:** I thrive on creating visually stunning interfaces that delight users.
+* 🤖 **Roblox Development:** I'm venturing into the world of Roblox Studio, crafting custom plugins to enhance gameplay.
 
-## Interests 🚀
+## 🌟 About Me
 
-- 🎮 **Gaming:** From casual mobile games to immersive RPGs, I love exploring virtual worlds.
-- 💻 **Coding:** Crafting clean, efficient, and interactive websites is my passion.
-- 🎨 **Web Design:** I enjoy creating visually appealing interfaces that enhance user experience. 
-- 🤖 **Roblox Development:** I'm diving into the world of Roblox Studio and exploring the creation of custom plugins.
+I'm a software developer with a deep-seated love for gaming and technology. This passion sparked my coding journey, leading me to explore various programming languages and tools. I'm constantly seeking new challenges and opportunities to grow my skills.
 
-## About Me 🌟
+## 🛠️ Skills
 
-I'm a software developer with a deep-rooted love for gaming and technology. This passion ignited my coding journey, leading me to delve into various programming languages and tools. I'm constantly seeking new challenges and opportunities to expand my skill set.
+* **Languages:** HTML, CSS, JavaScript, Lua (for Roblox)
+* **Frameworks/Libraries:**  _(Currently focused on front-end development)_
+* **Tools:** Git, VS Code, Roblox Studio
 
-## Skills 🔧
+## 💡 Projects
 
-- **Languages:** HTML, CSS, JavaScript, Lua (for Roblox)
-- **Frameworks/Libraries:** No back end / server side
-- **Tools:** Git, VS Code, Roblox Studio
+### Website Project ([GitHub Repo](https://github.com/Placewith5s/Website))
 
-## Projects 🛠️
+I'm actively building a website that elevates online experiences through a blend of creative design and meticulous coding.
 
-### [Website Project](https://github.com/Placewith5s/Website)
+### Roblox Studio Plugin (In Progress) 🚧
 
-I'm actively developing a website to elevate online experiences through a blend of creative design and meticulous coding. 
-
-### Roblox Studio Plugin (In Progress)
-
-I'm excited to be working on a Roblox Studio plugin that will... :)
-
-*Feel free to check out my repositories to see more of my work!*
+I'm excited to be working on a Roblox Studio plugin that will add new features and functionality to the platform! _(More details coming soon...)_
