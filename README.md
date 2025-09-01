@@ -17,6 +17,8 @@ I like coding both websites and Roblox games.
 * **Frameworks/Libraries:**  NONE
 * **Tools:** Git, VS Code, and Roblox Studio
 
-## 💡 Projects
+## 💡 Current Projects:
 
 ### Website Project ([GitHub Repo](https://github.com/Placewith5s/Website))
+
+And a few Roblox games
