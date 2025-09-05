@@ -4,8 +4,8 @@
 
 ## 🚀 Interests
 
-* 🎮 **Gaming:**
-* 💻 **Coding:**
+* 🎮 **Gaming**
+* 💻 **Coding**
 
 ## 🌟 About Me
 
