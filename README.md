@@ -13,7 +13,7 @@ I like coding both websites and Roblox games.
 
 ## 🛠️ Skills
 
-* **Languages:** HTML, CSS, JavaScript, and Lua (for Roblox)
+* **Languages:** HTML, CSS, JavaScript, TypeScript, and Luau
 * **Frameworks/Libraries:**  NONE
 * **Tools:** Git, VS Code, and Roblox Studio
 
@@ -21,4 +21,4 @@ I like coding both websites and Roblox games.
 
 ### Website Project ([GitHub Repo](https://github.com/Placewith5s/Website))
 
-And a few Roblox games
+[Roblox Talent Hub](https://create.roblox.com/talent/creators/2562870583)
