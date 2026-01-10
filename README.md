@@ -8,11 +8,13 @@
 * 🎮 **Gaming**
 
 ## Skills
-* **Languages:** JavaScript, TypeScript, Luau, some C++, and Python.
+* **Languages:** JavaScript, TypeScript, Luau, Python, and some C++.
 * **Tools:** Git, VS Code Insiders, and Roblox Studio.
 
 ## Current Projects:
 ### Website Project ([GitHub Repo](https://github.com/Placewith5s/Website))
 
-### Other Projects:
+### Game Projects:
 [Roblox Talent Hub](https://create.roblox.com/talent/creators/2562870583)
+
+More information on Upwork: https://www.upwork.com/freelancers/~01648e3b6e88bf4bc8
