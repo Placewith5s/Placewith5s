@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Placewith5s. 
-- I like coding both websites and Roblox games.
+- I like coding websites, Roblox games, and tools.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Placewith5s&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ## Interests
-* 💻 **Coding**
+* 💻 **Coding** - Web, Games, and making tools
 * 🎮 **Gaming**
 
 ## Skills
-* **Languages:** JavaScript, TypeScript, Luau, Python, and some C++.
-* **Tools:** Git, VS Code Insiders, and Roblox Studio.
+* **Languages:** JavaScript, TypeScript, Luau, Python, and some intermediate C++.
+* **Tools Used:** Git, VS Code Insiders, and Roblox Studio.
 
 ## Current Projects:
 ### Website Project ([GitHub Repo](https://github.com/Placewith5s/Website))
