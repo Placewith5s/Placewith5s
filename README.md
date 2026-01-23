@@ -9,7 +9,7 @@
 
 ## Skills
 * **Languages:** JavaScript, TypeScript, Luau, Python, and some intermediate C++.
-* **Tools Used:** Git, VS Code Insiders, PyCharm, and Roblox Studio.
+* **Tools Used:** Git, Vim, VS Code Insiders, PyCharm, and Roblox Studio.
 
 ## Game Projects
 [Roblox Talent Hub](https://create.roblox.com/talent/creators/2562870583)
