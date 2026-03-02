@@ -1,21 +1,7 @@
 # Hi there! 👋 I'm Placewith5s.
-I code websites, Roblox games, and tools.
+I create websites, Roblox games, and tools.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Placewith5s&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-
-## Interests
-* 💻 **Coding**
-* 🎮 **Gaming**
-
-## Skills
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Luau
-- Python
-- Some intermediate C++
-- C#
 
 ## Tools
 - Git
