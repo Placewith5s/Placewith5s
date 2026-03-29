@@ -5,7 +5,7 @@ I create websites, Roblox games, and tools.
 
 ## Tools
 - Git
-- Vim
+- Nvim
 - VS Code
 - VS Code Insiders
 - PyCharm
