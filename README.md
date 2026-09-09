@@ -6,6 +6,7 @@ I create websites, tools, and Roblox games.
 ## Tools
 - Nvim
 - Git
+- Visual Studio (pvz modding)
 - Roblox game development (on a break)
 
 
